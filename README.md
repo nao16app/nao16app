@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nao16app
 - 👀 I’m interested in System Engineering
--- Android, iOS, Java, Go, Rust, Python, AWS, GCP, MachineLearning, DeepLearning
+    - Android, iOS, Java, Go, Rust, Python, AWS, GCP, MachineLearning, DeepLearning
 - 🌱 I’m currently learning ...
 -- Go, Rust, AWS, Machine Learning
 - 📫 How to reach me nao16app@gmail.com
